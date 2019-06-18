@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Self-Service">08771d0cc0a8016401f604303b94b999</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>self</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query>login_cpw.do</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-10 17:31:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1373ab88db0a7300ca6ddde74896190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>self</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+        <sys_update_name>sys_app_module_1373ab88db0a7300ca6ddde74896190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-10 17:31:13</sys_updated_on>
+        <timeline_page/>
+        <title>self</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

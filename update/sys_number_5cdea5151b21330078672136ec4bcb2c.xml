@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_332086_practice1_ex1">x_332086_practice1_ex1</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>EX1</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 09:38:03</sys_created_on>
+        <sys_id>5cdea5151b21330078672136ec4bcb2c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>EX1</sys_name>
+        <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+        <sys_update_name>sys_number_5cdea5151b21330078672136ec4bcb2c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 09:38:03</sys_updated_on>
+    </sys_number>
+</record_update>

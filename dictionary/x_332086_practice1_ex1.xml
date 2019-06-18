@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="ex1" max_length="40" name="x_332086_practice1_ex1" type="collection">
+        <element choice="1" label="Discipline" mandatory="true" max_length="40" name="discipline" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="ece"/>
+                <element inactive_on_update="false" label="EEE" sequence="2" value="eee"/>
+            </choice>
+        </element>
+        <element choice="1" label="Favourite Hero" mandatory="true" max_length="40" name="favourite_hero" type="string">
+            <choice>
+                <element inactive_on_update="false" label="NTR" sequence="0" value="ntr"/>
+                <element inactive_on_update="false" label="Mahesh Babu" sequence="1" value="mahesh babu"/>
+                <element inactive_on_update="false" label="Ram" sequence="2" value="ram"/>
+            </choice>
+        </element>
+        <element choice="1" label="Favourite Movie" mandatory="true" max_length="40" name="favourite_movie" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Nannaku Prematho" sequence="0" value="nannaku prematho"/>
+                <element inactive_on_update="false" label="Aravindha Sametha" sequence="1" value="aravindha sametha"/>
+                <element inactive_on_update="false" label="Brundavanam" sequence="2" value="brundavanam"/>
+                <element inactive_on_update="false" label="Maharshi" sequence="3" value="maharshi"/>
+                <element inactive_on_update="false" label="Srimanthudu" sequence="4" value="srimanthudu"/>
+                <element inactive_on_update="false" label="Bharath Ane Nenu" sequence="5" value="bharath ane nenu"/>
+                <element inactive_on_update="false" label="Pandaga Chesko" sequence="6" value="pandaga chesko"/>
+                <element inactive_on_update="false" label="Hello Guru Premakosame" sequence="7" value="hello guru premakosame"/>
+                <element inactive_on_update="false" label="Vunnadi Okate Jindagi" sequence="8" value="vunnadi okate jindagi"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

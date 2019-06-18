@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table" max_length="40" name="x_332086_practice1_table" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ID" mandatory="true" max_length="40" name="u_integer_3" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Salary" mandatory="true" max_length="40" name="u_integer_4" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Annual Income" max_length="40" name="u_integer_9" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="School Name" max_length="40" name="u_string_10" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="College Name" max_length="40" name="u_string_11" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_string_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Designation" mandatory="true" max_length="40" name="u_string_5" type="string">
+            <choice>
+                <element inactive_on_update="false" label="CSE" sequence="0" value="cse"/>
+                <element inactive_on_update="false" label="ECE" sequence="1" value="ece"/>
+                <element inactive_on_update="false" label="EEE" sequence="2" value="eee"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Father Name" max_length="40" name="u_string_6" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Mother Name" max_length="40" name="u_string_7" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Father Occupation" max_length="40" name="u_string_8" type="string"/>
+    </element>
+</database>

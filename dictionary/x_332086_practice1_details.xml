@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="details" max_length="40" name="x_332086_practice1_details" type="collection">
+        <element label="backlogs" max_length="40" name="backlogs" type="string"/>
+        <element label="branch" max_length="40" name="branch" type="string"/>
+        <element label="cgpa" max_length="40" name="cgpa" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="register no" max_length="40" name="register_no" type="string"/>
+        <element label="sno" max_length="40" name="sno" type="string"/>
+    </element>
+</database>

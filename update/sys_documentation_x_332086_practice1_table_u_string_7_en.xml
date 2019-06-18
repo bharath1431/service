@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_string_7" label="Mother Name" language="en" table="x_332086_practice1_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_string_7</element>
+            <help/>
+            <hint/>
+            <label>Mother Name</label>
+            <language>en</language>
+            <name>x_332086_practice1_table</name>
+            <plural>Mother Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-15 08:46:02</sys_created_on>
+            <sys_id>a5f2bf671b11330078672136ec4bcbc1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Mother Name</sys_name>
+            <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+            <sys_update_name>sys_documentation_x_332086_practice1_table_u_string_7_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-15 08:46:02</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

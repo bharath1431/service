@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_332086_practice1.pawan" name="x_332086_practice1.pawan">f0ce3123db613300ca6ddde748961953</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-27 10:34:17</sys_created_on>
+        <sys_id>5cdef9efdb213300ca6ddde7489619b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f0ce3123db613300ca6ddde748961953</sys_name>
+        <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+        <sys_update_name>sys_embedded_help_role_5cdef9efdb213300ca6ddde7489619b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-27 10:34:17</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="favourite_movie" table="x_332086_practice1_ex1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nannaku Prematho</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9fed151b21330078672136ec4bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>nannaku prematho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aravindha Sametha</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>009fed151b21330078672136ec4bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>aravindha sametha</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brundavanam</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9fed151b21330078672136ec4bcb66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>brundavanam</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maharshi</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c9fed151b21330078672136ec4bcb67</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>maharshi</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Srimanthudu</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>889fed151b21330078672136ec4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>srimanthudu</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bharath Ane Nenu</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>089fed151b21330078672136ec4bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>bharath ane nenu</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Pandaga Chesko</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>849fed151b21330078672136ec4bcb6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>pandaga chesko</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hello Guru Premakosame</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>049fed151b21330078672136ec4bcb6b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>hello guru premakosame</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>favourite_movie</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vunnadi Okate Jindagi</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>809fed151b21330078672136ec4bcb6c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+            <value>vunnadi okate jindagi</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>favourite_movie</element>
+            <name>x_332086_practice1_ex1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:41:19</sys_created_on>
+            <sys_id>f07fa967db213300ca6ddde74896194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>favourite_movie</sys_name>
+            <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+            <sys_update_name>sys_choice_x_332086_practice1_ex1_favourite_movie</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:41:19</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

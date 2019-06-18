@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-27 10:16:21</sys_created_on>
+        <sys_id>adbaf56fdb213300ca6ddde74896194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_332086_practice1_roleexample.x_332086_practice1.roleexample_user</sys_name>
+        <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+        <sys_security_acl display_value="x_332086_practice1_roleexample">65baf56fdb213300ca6ddde74896194c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_adbaf56fdb213300ca6ddde74896194e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-27 10:16:21</sys_updated_on>
+        <sys_user_role display_value="x_332086_practice1.roleexample_user" name="x_332086_practice1.roleexample_user">89bab92fdb213300ca6ddde74896196b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

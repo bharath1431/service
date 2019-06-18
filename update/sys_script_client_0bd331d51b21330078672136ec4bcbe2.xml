@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>favourite_hero</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>student4</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	var x=g_form.getValue("favourite_hero");
+	g_form.clearOptions("favourite_movie");
+	if(x=="ntr")
+		{
+			g_form.addOption("favourite_movie","nannaku prematho","Nannaku Prematho");
+			g_form.addOption("favourite_movie","aravindha sametha","Aravindha Sametha");
+			g_form.addOption("favourite_movie","brundavanam","Brundavanam");
+			g_form.addInfoMessage("Best Choice");
+		}
+	if(x=="mahesh babu")
+		{
+			g_form.addOption("favourite_movie","maharshi","Maharshi");
+			g_form.addOption("favourite_movie","srimanthudu","Srimanthudu");
+			g_form.addOption("favourite_movie","bharath ane nenu","Bharath Ane Nenu");	
+		}
+	if(x=="ram")
+		{
+			g_form.addOption("favourite_movie","pandaga chesko","Pandaga Chesko");
+			g_form.addOption("favourite_movie","hello guru premakosame","Hello Guru Premakosame");
+			g_form.addOption("favourite_movie","vunnadhi okate jindagi","Unnadhi Okate Jindagi");	
+			g_form.addErrorMessage("Better To Select Another Option");
+			g_form.addInfoMessage("Best choice123");
+		}
+	
+
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-20 10:14:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>0bd331d51b21330078672136ec4bcbe2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>student4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+        <sys_update_name>sys_script_client_0bd331d51b21330078672136ec4bcbe2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-20 10:16:21</sys_updated_on>
+        <table>x_332086_practice1_ex1</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="roleexample" max_length="40" name="x_332086_practice1_roleexample" type="collection">
+        <element label="address" max_length="40" name="address" type="string"/>
+        <element label="branch" max_length="40" name="branch" type="string"/>
+        <element label="mobile number" max_length="40" name="mobile_number" type="string"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="research group" max_length="40" name="research_group" type="string"/>
+        <element label="rollnumber" max_length="40" name="rollnumber" type="string"/>
+    </element>
+</database>

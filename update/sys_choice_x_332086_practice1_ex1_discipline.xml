@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="discipline" table="x_332086_practice1_ex1" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discipline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSE</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:43:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25ffe1551b21330078672136ec4bcb4f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:43:04</sys_updated_on>
+            <value>cse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discipline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECE</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:43:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65ffe1551b21330078672136ec4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:43:04</sys_updated_on>
+            <value>ece</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discipline</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EEE</label>
+            <language>en</language>
+            <name>x_332086_practice1_ex1</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:43:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1ffe1551b21330078672136ec4bcb51</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:43:04</sys_updated_on>
+            <value>eee</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>discipline</element>
+            <name>x_332086_practice1_ex1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-20 09:43:04</sys_created_on>
+            <sys_id>7c7fa967db213300ca6ddde748961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>discipline</sys_name>
+            <sys_package display_value="practice1" source="x_332086_practice1">fc31b3631b11330078672136ec4bcb35</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practice1">fc31b3631b11330078672136ec4bcb35</sys_scope>
+            <sys_update_name>sys_choice_x_332086_practice1_ex1_discipline</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-20 09:43:04</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
